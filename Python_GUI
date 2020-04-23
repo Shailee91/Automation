@@ -1,0 +1,104 @@
+import xml.etree.ElementTree as ET
+from xml.etree.ElementTree import Element
+from xml.etree.ElementTree import ElementTree
+#import xml.etree.ElementTree
+from datetime import date
+from datetime import datetime
+import tkinter as tk
+import pandas as pd
+import numpy as np
+from xlrd import open_workbook
+from xlwt import Workbook
+from tkinter import filedialog as fd
+from xml.dom import minidom
+import uuid
+
+
+root= tk.Tk()
+#mytree = ET.parse(r"C:\Users\Administrator\Desktop\workflow.xml")
+#myroot = mytree.getroot()
+canvas1 = tk.Canvas(root, width = 400, height = 300)
+canvas1.pack()
+label1 = tk.Label(root, text='workflow generator')
+label1.config(font=('Arial', 20))
+canvas1.create_window(400, 50, window=label1)
+
+label1.config(font=('Arial', 20))
+canvas1.create_window(400, 50, window=label1)
+
+entry1 = tk.Entry (root)
+canvas1.create_window(400, 100, window=entry1)
+ 
+entry2 = tk.Entry (root)
+canvas1.create_window(400, 120, window=entry2)
+         
+entry3 = tk.Entry (root)
+canvas1.create_window(400, 140, window=entry3)
+
+entry5 = tk.Entry (root)
+canvas1.create_window(400, 160, window=entry5)
+
+entry6 = tk.Entry (root)
+canvas1.create_window(400, 180, window=entry6)
+
+
+label1 = tk.Label(root, text= "Name")
+canvas1.create_window(300, 100, window=label1)
+label2 = tk.Label(root, text= "owner")
+canvas1.create_window(300, 120, window=label2)
+label3 = tk.Label(root, text="description")
+canvas1.create_window(300, 140, window=label3)
+label4 = tk.Label(root, text= "workflow Name")
+canvas1.create_window(280, 160, window=label4)
+label5 = tk.Label(root, text= "workflow Description")
+canvas1.create_window(270, 180, window=label5)
+
+
+   
+
+def settagwfxml():
+    x1 = entry1.get()
+    x2 = entry2.get()
+    x3 = entry3.get()
+    x4 = str(uuid.uuid1())
+    x5 = entry5.get()
+    x6 = entry6.get()
+   
+   
+   
+       
+       
+
+    file1=fd.askopenfilename()
+    data1=pd.read_excel(file1 , sheet_name = 1)
+    print(data1)
+    mytree=ET.parse(r"C:\Users\Administrator\Desktop\workflow.xml")
+    myroot = mytree.getroot()
+    print(myroot)
+    for x in myroot.iter('POWERMART'):
+        now = datetime.now()
+        print (now.strftime("%Y-%m-%d %H:%M:%S"))
+        x.set('CREATION_DATE', now.strftime("%Y-%m-%d %H:%M:%S") )
+   
+    for y in myroot.iter('FOLDER'):
+        y.set('NAME',x1)
+        y.set('OWNER',x2)
+        y.set('DESCRIPTION',x3)
+        y.set('UUID',x4)
+   
+    for y in myroot.iter('FOLDER'):
+        y.set('NAME',x1)
+        y.set('OWNER',x2)
+        y.set('DESCRIPTION',x3)
+        y.set('UUID',x4)
+       
+    for y in myroot.iter('WORKFLOW'):
+        y.set('NAME',x5)
+        y.set('DESCRIPTION',x6)
+       
+
+    mytree.write(r"C:\Users\Administrator\Desktop\newworkflow.xml")
+button = tk.Button(root,text='Import excell and generate',command=settagwfxml)
+canvas1.create_window(400, 300, window=button)
+
+root.mainloop()

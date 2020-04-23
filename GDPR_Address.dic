@@ -1,0 +1,132 @@
+Sno,Country,CityCode,StateCode,PostalCode,Address
+1,ARE,DUB,DU,500378,Office No. 2301 Al Thuraya Tower 2Dubai Internet CityDubai P.O. Box
+2,AUS,BRI,QL,4000,266  George StQueenslandBrisbane
+3,AUS,BRI,QL,4000,Office 6 Level 54 111 Eagle Street Brisbane QLD
+4,AUS,MEL,VI,3000,Level 11 410 Collins street
+5,AUS,SYD,NS,2000,Level 2719 Martin Place
+6,CHN,BEI,BE,100025,79 Jianguo RoadChaoyang DistrictBeijingChina
+7,CHN,DLN,LI,116023,No.1 Hui Xian YuanHi-tech Industrial Zone DalianThe People's Republic of China
+8,JPN,OSK,OS,5300047,2-6-8 Nishitenma Kita kuOsaka shi Osaka
+9,JPN,TOK,TK,1080075,2-16-2 Konan Minato kuTokyo
+"10,KHM,PHE,PH,120000,Corner Street 13102 Sangkat Wat Phnom Cambodia PostPHNOM PENH"
+11,KOR,SEO,SE,30174,102Seoul-teukbyeolsi, Jongno-gu, Sajik-ro-3-gil 23Jongno-guSeoul
+12,KWT,KUW,KU,54404,Street 3 Building 11Al-SabbahiyaKuwait
+13,LKA,SRI,WP,60160,46Galle RoadKuliyapitiya RoadWellawatta
+14,MMR,YAN,MY,11201,No.94Pyay RoadDagon TownshipYangon
+15,MUS,POR,MA,11404,22Frère Felix De ValoisSt Port Louis
+16,MYS,BLE,PG,11900,3rd Floor Pillar E1Phase 3Bayan Lepas
+17,MYS,BLS,PU,11900,JABIL SDN BHDGlobal Business Centre (GBC 2) Building No.5Taman Perindustrian Bayan LepasPulau Pinang Malaysia
+18,NPL,KAT,KT,8975,4th Floor Trade TowerThapathaliKathmanduNepalEPC 1600
+19,NZL,AUC,AU,1010,Level 27 Suite 2720188 Quay Street
+20,NZL,WEL,WE,6011,Level 20 Plimmer Towers2-6 Glimer Terrace
+21,OMN,MUS,OM,113,BP 338 RUWI 112Muscat
+22,PHL,CEB,CV,6000,11th & 12th FloorsSkyrise 4Block 2 Geonson StCebu IT Park
+23,PHL,CEB,CV,6000,INEZ VILLA STREETIT PARK LAHUG CEBU
+24,PHL,TAG,ME,1634,8F Science Hub Tower 2 Building110 Campus Avenue McKinley Town CenterFort BonifacioTaguig City
+25,PHL,TAG,NC,1634,4TH & 5th Flr18/20 Upper Mckinley BldgNo.10 Upper Mckinley RoadMckinley Hill Fort BonifacioTaguig City
+26,QAT,DOH,QA,0,West Bay  Doha Corniche
+27,RUS,MOS,MO,247112, ul. Lesnaya d 5  kv. 176 g. MOSKVA
+28,SAU,DAM,EP,12643,8228King Abdulaziz Road Al Amal Dammam
+29,SAU,JED,EP,8250,7894Sadi ibn wahb ST  As salamah Dist JEDDAH
+30,SGP,SGP,SG,486025,1 Changi Business Park CrescentPlaza 8@CBPTower A#07-04/05/06Singapore
+31,SGP,SGP,SG,486025,1 Changi Business Park CrescentPlaza 8@CBP #07-04/06 Tower A
+32,THA,BAN,BK,10120,Cognizant Technology Solutions (Thailand) Co.1 Q House Lumpini Level 271 South Sathorn Rd Tungmahamek Sathorn
+33,TUR,IST,IA,7613,Mehmet Aslan Divan Apartman Ulus Mahalle 1463 Sok. No. 3 Kat 5  Istanbul
+34,TWN,TAI,TP,110,4/F. No 33 Lane 11Kuang-Fu North Road Taipei
+35,UZB,TAS,TO,100012,a / or 301 p.o. box Glavpochtamt Tashkent locality Tashkent
+36,VNM,HAN,HN,10000,AIG Vietnam Insurance Company LimtedUnit 5-04 5th Floor Hanoi Towers49 Hai Ba Trung
+37,AUT,KUN,TI,1220,Rennbahnweg 25/2/15 Kundl
+38,BEL,BRU,BC,1020,Esplanade 1/ Box 41
+39,BEL,BRU,BC,2550,Prins Boudewijnlaan 24AKontich
+40,CHE,BAR,ZG,6340,Altgasse 63
+41,CHE,BAR,ZG,6340 Baar,Altgasse 63
+42,CZE,PRA,PR,14062,14000 Prague 4
+43,CZE,PRA,PR,14062,Melnicka 133 Bysice
+44,DEU,BER,BE,10997,Schlesische Str. 28 4. Hof Aufgang S 15
+45,DEU,BOC,NW,44803,Wasserstr 121
+46,DEU,HAM,HH,22083,Osterbekstr 90c
+47,DNK,COP,HO,1253,Toldbodgade 18 st. tv.
+48,DNK,JBR,MI,8850,Grundfos Holding A/S BjerringbroBjerringbro
+49,ESP,BAR,BC,8006,Calle Tuset23 - 25Floor- 4
+50,ESP,BAR,BC,8005,Cami Antic de Valencia54 7-9a 08005 BarcelonaSpain
+51,FIN,HEL,SF,100,Luna House Mannerheimintie 12 B
+52,FIN,HYV,SF,100,Luna House, Mannerheimintie 12 B Hyvinkaa
+53,FRA,BOR,BD,33700,MYLAN (MEDA) Merignac-ManufacturingRue de LartigueMerignac
+54,FRA,GRE,RA,38000,Avenue Doyen Louis Weil
+55,GRC,ATH,CG,15140,PANAGIOTOU P.O. BOX 999 151 10 Athens
+56,HRV,DBK,DN,52341,Branimirova 4 Kanfanar Dubrovnik
+57,HUN,BUD,BU,96-98,H-1133 Vaci utBudapest
+58,HUN,BUD,BU,1087,Hungaria TowerArena Corner Office Centre
+59,ITA,MIL,MI,20121,Montenapoleone Via Monte di Pieta' 21
+60,LTU,VIL,VL,3159,Savanoriu pr. 18Savanoriu pr. 26
+61,LTU,VIL,VL,3159,Savanoriu pr. 26
+62,LUX,LUX,LX,2999,Kirchberg City CentreEolis Square
+63,LVA,RIG,RI,1011,42D Mkusalas ielaLV-1004RigaLatvia
+64,LVA,RIG,RI,100,Dzimavu iela 57A - 4LV-1010RigaLatvia
+65,MLT,MAL,MA,2042,12 Becchi Triq il-Mediterran Manikata Mellieha Malta
+66,NLD,ALK,NH,1812 RL,Toermalijnstraat 5
+67,NLD,AMS,AM,1082,Gustav Mahlerlaan 308
+68,NLD,AMS,AM,3707,Platolaan 24GG Zeist
+69,NOR,BER,HO,5254,Sandslimarka 2515254 SandslimarkaBergen
+70,NOR,KRI,VA,4639,Butangen 204639 Kristiansand
+71,NOR,OSL,OS,1179,Bankplassen 2
+72,POL,GDA,KP,80309,Grunwaldzka 411Gdansk
+73,POL,GDA,PV,80309,Al. Grunwaldzka 415
+74,PRT,LIS,LI,1350-352,Cognizant Technology Solutions PortugalEdifico LACS Rocha Conde de ObidosLisboa Portugal
+75,PRT,LIS,LI,1200-410,Largo de São Carlos Nº3 – Freguesía de MártiresLisboa  Portugal
+76,ROU,BUC,BU,30133,165 Splaiul UniriiTN Offices 2 BuildingDistrict 3 030133 Bucharest RomaniaRomania
+77,ROU,CLU,CJ,400000,Strada Republicii 103Cluj-NapocaRomania
+78,SRB,BLG,BL,101801,Belgrade
+79,SVK,BRA,BR,821 09,Prievozska 1318/14/a Bratislava
+80,SWE,STO,AB,11122,Kungsbron 1 Floor G2
+81,UKR,KIE,KY,2000,PushkinskaSt 15 Kyiv
+82,IND,AHM,GJ,380054,Off No. A 604Shilp Aaron Sindhu Bhavan RoadAhmedabad
+83,IND,BLR,KA,560071,# 91 II Floor GR SquareAmar Jyoti HBCS LayoutDomlurBengaluru
+84,IND,BLR,KA,560093,( CL) Corelogic Bagmane Tech Park - Lake ViewFloor 4 & 5Bagmane Tech Park C.V.Raman Nagar
+85,ARG,BUE,BA,1091,IntercontinentalCarlos Pellegrini 885/887 7th Floor
+86,ARG,BUE,BA,1091,IntercontinentalCorner of 845 Moreno and 242 Tacuar
+87,ARG,BUE,BA,1189,Tucuman 3720
+88,BRA,SAO,SP,04711-130,AV DOUTOR CHUCRI ZAIDAN1240 MORUMBI CORPORATE - DIAMOND TOWER15TH FLOOR VILA SÃO FRANCISCOSÃO PAULO
+89,BRA,SAO,SP,05804-900,Av. Maria Coelho Aguiar 215 - Bloco C - 3rd floor
+90,COL,MED,AN,50022,CALLE 10 #38-49 OF 204MEDELLÍNANTIOQUIAColombia
+91,CHL,PMT,SM,5480000,Chaiten 405Puerto Montt Los Lagos
+92,CHL,SAN,SM,7591538,1547 Santiago Santiago Metropolitan San Diego
+93,CRI,SAN,HE,40801,America Free Zone C-14 & C-7 Heredia 600 mts norte del Real Cariari
+94,CRI,SAN,HE,40801,America Free Zone E-25Heredia 600 mts norte del Real Cariari
+95,CYM,GCA,CA,KY1-10120,Mijall Road Bodden Town Cayman Islands
+96,DOM,AUD,DN,10121,Av. John F. Kennedy 34 Santo Domingo Dominican Republic
+97,ECU,PIC,PI,130802,Luis Pinto entre calle 16 y Peatonal Pichincha Ecuador
+98,GTM,GUC,GT,113,15 Avenida A 15-16 Guatemala
+99,GTM,ZON,GT,2014,COLONIA LA LABOR 27 Avenida 22-74 Guatemala
+100,MEX,DAO,DF,1210,Av. Santa Fe 94Corporativo SamaraTorre C Piso 13Col. Santa Fe  Del. Alvaro Obregon DF C.P
+101,MEX,GUA,JA,CP 451019,Av. Aviacion 3800San Juan de OcotnZapopanJalisco
+102,PAN,PAN,PA,601,Avenida Balboa y P.H Torre  Mundial Panama
+103,PER,LIM,LM,15074,Sr. Jose Galvez Lora Av. Larco 1301  Miraflores Lima
+104,PRI,GUA,PR,4,Gond Garden Plaza Torret 2 Apartment 905 Guayama
+105,SLV,SSV,SS,CP 1101,Alameda RooseveltCentro Financiero GiganteEdificio ANivel7 San SalvadorEl Salvador
+106,CAN,LON,ON,N6B 1V5,343 Dundas StreetSuite 306
+107,CAN,MIS,ON,L5N 0E4,7100 West Credit AvenueMississaugaON
+108,USA,ALB,NY,12203,1873 Western AveAlbanyNY
+109,USA,ALB,NY,12210,Empire State PlazaAlbanyNY
+110,ZAF,JOH,GA,1686,Palazzo Towers West Monte CasinoWilliam Nicol Drive
+111,ZMB,LUS,LU,12233,12BCentral Street off 7th Street CBD LUSAKA
+112,ZWE,HAR,HA,263,Ms Sue Susan 34-6th Crescent Warren ParkHarare
+113,KEN,NAI,NA,800,718West Midlands Museum Hill
+114,KEN,NAI,NA,800,West Midlands Museum Hill
+115,MAR,CBC,CB,20100,295 Angle Boulevard Abdelmoumen et Rue Persée3ème étage N C21
+116,MOZ,MAP,MO,1462,Av. Mártires da Machava  252, 5o andar, flat 3  1100 MAPUTO
+117,NGA,LAG,LA,100001,112Commercial Ave Oyadiran Estate Lagos
+118,TUN,TUN,TN,1002,Madame B. Fatma 42 Avenue BELVEDERE Tunisia
+119,TZA,DAR,TZ,12210,14Burhani ComplexMagore Street
+120,UGA,KAM,KA,795125,Churchill House Plot 928 Block 18 Sir Albert Cook Road Kampala
+121,GHA,ACC,GH,23321,House Nos 20AJones Nelson RoadAdabrakaAccra
+122,GNQ,MAL,GQ,12345,West Midlands Museum Hill Central Street off 7th Street  Malabo
+123,JEY,STH,SH,JE1 0FS,MontenapoleoneCommercial Ave  Metropolitan 
+124,DZA,ALG,AP,16015,172Rue Hassiba BenboAlgeria
+125,EGY,CAI,CA,11599,30Rue Ahmed Orabi Al-Mohandessine CAIRO
+126,IRL,DUB,DU,D02 NP08,Grand Canal DocklandsBlock C South Docklands77 Sir John Rogerson’s Quay
+127,IRL,EBP,DU,Dublin 3,Block F3Eastpoint StreetEastpoint Business Park
+128,GBR,HAN,CC,SK9 3RN ,Pets at Home Head Office Epsom Ave Handforth
+129,GBR,HUN,CA,PE29 6XU,Anglian Water Services Limited Henderson House 4 Lancaster Way Ermine Business Park  Huntingdon
+130,GBR,WLW,CC,SK9 1PF,Alderley RdWilmslow
+131,GBR,WES,MD,UB7 0GB,British Airways plcWaterside PO Box 365HarmondsworthWest Drayton
